@@ -1,4 +1,4 @@
-# React Lorem Ipsum
+# shop conna Lorem Ipsum generator
 
 **React Lorem Ipsum** is a (TypeScript-supported) React library including components and functions to **generate placeholder text**.
 
