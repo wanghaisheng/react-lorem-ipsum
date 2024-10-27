@@ -17,14 +17,14 @@ const App = () => {
             className={tab === 'lipsum' ? 'active' : ''}
             onClick={() => setTab('lipsum')}
           >
-            Lorem Ipsum
+            Lorem Ipsum Generator
           </button>
           <button
             type="button"
             className={tab === 'user' ? 'active' : ''}
             onClick={() => setTab('user')}
           >
-            Random User
+            Random User Generator
           </button>
         </div>
         <div className={`content${tab === 'lipsum' ? ' active' : ''}`}>
